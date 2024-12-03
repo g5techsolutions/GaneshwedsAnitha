@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background:  rgb(161 69 69 / 40%);
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter,
@@ -940,7 +940,8 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: darkred;
+  background: transparent;
+  border: 3px solid #F14E95;
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
