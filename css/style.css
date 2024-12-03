@@ -1839,3 +1839,32 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+
+.g1{
+  background-image: url("../images/01.jpg");
+}
+
+.g2{
+  background-image: url("../images/06.jpg");
+}
+.g3{
+  background-image: url("../images/07.jpg");
+}
+.g4{
+  background-image: url("../images/08.jpg");
+}
+.g5{
+  background-image: url("../images/09.jpg");
+}
+.g6{
+  background-image: url("../images/04.jpg");
+}
+.g7{
+  background-image: url("../images/10.jpg");
+}
+.g8{
+  background-image: url("../images/11.jpg");
+}
+.g9{
+  background-image: url("../images/1.jpg");
+}
